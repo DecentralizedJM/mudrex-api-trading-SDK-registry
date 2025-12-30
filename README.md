@@ -2,7 +2,7 @@
 
 Comprehensive registry of all Mudrex Futures Trading API SDKs. Each SDK provides a type-safe, production-ready interface for building trading strategies.
 
-**All SDKs are Unofficial** and maintained by the community. For the official API documentation, visit [Mudrex API Docs](https://mudrex.com/api/docs).
+**All SDKs are Unofficial** and built & maintained by [DecentralizedJM](https://github.com/DecentralizedJM). For the official API documentation, visit [Mudrex Trading API Docs](https://docs.trade.mudrex.com/docs/overview).
 
 ---
 
@@ -424,8 +424,9 @@ For SDK-specific issues, open an issue on the respective GitHub repository:
 - [.NET SDK Issues](https://github.com/DecentralizedJM/mudrex-dotnet-sdk/issues)
 - [Node.js SDK Issues](https://github.com/DecentralizedJM/mudrex-nodejs-sdk/issues)
 
-For Mudrex API questions, check the [official documentation](https://mudrex.com/api/docs).
+For Mudrex API questions, check the [official documentation](https://docs.trade.mudrex.com/docs/overview).
 
 ---
 
 **Last Updated:** December 31, 2024
+**Built and maintained by [DecentralizedJM](https://github.com/DecentralizedJM)**
